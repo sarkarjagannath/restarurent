@@ -157,8 +157,8 @@ input[type="time"]::-webkit-calendar-picker-indicator{
         margin-left: auto;
         margin-right: auto;
         width: 50%;
-         height: 350px;
-        width: 300px;
+         height: 250px;
+        width: 200px;
         border-radius: 10px 100px / 120px;
        height: 400px;
     
