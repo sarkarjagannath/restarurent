@@ -156,7 +156,7 @@ input[type="time"]::-webkit-calendar-picker-indicator{
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 50%;
+/*         width: 50%; */
          height: 250px;
         width: 200px;
         border-radius: 10px 100px / 120px;
