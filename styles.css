@@ -148,15 +148,15 @@ input[type="time"]::-webkit-calendar-picker-indicator{
         position: absolute;
         left:40px
      }
-    .abc2{
-        position: absolute;
-        left:267px
-     }
-     .card-img{
-       display: none;
-    }
-    .card-content{
-        padding-top: 40px;
-    }
+ .abc2{
+       position: absolute;
+       left:267px
+   }
+ .card-img{
+      display: none;
+   }
+ .card-content{
+    padding-top: 40px;
+  }
 }
 
