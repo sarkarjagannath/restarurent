@@ -144,6 +144,9 @@ input[type="time"]::-webkit-calendar-picker-indicator{
         font-size: 17px;
         font-weight: 400;
     }
+    .card-content{
+    backdrop-filter: blur(2px);
+}
  .abc{
         position: absolute;
         left:40px
